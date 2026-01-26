@@ -35,9 +35,9 @@ This README file will show the instructions on how to build and run the Homework
 
 If the launch of the world in Gazebo gives some problems and errors, run
 ```shell
-export GZ_SIM_RESOURCE_PATH=~/ros2_ws/src/Homework_3/ros2_iiwa/iiwa_description/gazebo/models
+export GZ_SIM_RESOURCE_PATH=~/ros2_ws/src/Robotics_Lab_Homework_3/ros2_iiwa/iiwa_description/gazebo/models
 ```
-this because in the **Dockerfile** is specified only `src` but when you download my Repository, you download all in anoter directory called `Homework_3`
+this because in the **Dockerfile** is specified only `src` but when you download my Repository, you download all in anoter directory called `Robotics_Lab_Homework_3`
 
 ⚠️⚠️⚠️
 ## Implementation 💻
