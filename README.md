@@ -1,6 +1,5 @@
-# HOMEWORK_3 PATELLARO EMMANUEL P38000239 #
 # 👀📷 Implement a Vision-Based Task 📷👀 #
-This README file will show the instructions on how to build and run the Homework_3 Project 
+This README file will show the instructions on how to build and run the third homework implemented for the course of Robotics Lab taught by Prof. Mario Selvaggio.
 
 ## Features 🪐 ##
 - Computer Vision 💻👁️
